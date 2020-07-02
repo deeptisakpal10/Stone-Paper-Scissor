@@ -1,4 +1,4 @@
-# Stone-Paper-Scissor
+# Stone Paper Scissor
 It's a Simple Stone Paper Scissor Game Using Python code
 ### Rule of this game is:-
 1) You have to play this game 10 times with Computer 
